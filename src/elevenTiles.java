@@ -1,5 +1,5 @@
 import java.util.*;
-
+ 
 public class elevenTiles{
 	
 	public static String startData; //stores the initial data
